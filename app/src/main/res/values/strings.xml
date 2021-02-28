@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">3rd.and.hw3</string>
+    <string name="hello">Хилоу)</string>
+    <string name="enterRequest">Введите ваш запрос</string>
+    <string name="search">Поиск</string>
+</resources>
